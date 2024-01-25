@@ -11,7 +11,7 @@
 ## 🏁 Get Started <a name = "Install"></a>
 
 ```
-git clone https://github.com/gaserashraf/
+git clone https://github.com/ahmednassar/
 ```
 ```
 npm install
